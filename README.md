@@ -4,6 +4,14 @@
 
 > **Important:** This is not Microsoft Windows or a bootable operating system. It cannot execute `.exe` programs, read arbitrary folders on your computer, run Windows services, or install actual Windows applications. Built-in apps run safely within the browser. An independent, experimental x86 kernel starter is included in `Bootable_Kernel_Starter/` for learning OS development, but it does **not** run the graphical desktop.
 
+## Screenshots
+
+![ViceStreet OS desktop](screenshots/desktop.jpg)
+
+![File Explorer and Calculator](screenshots/apps.jpg)
+
+![Start menu with built-in apps](screenshots/start-menu.jpg)
+
 ## Launch
 
 1. Download `index.html` from GitHub (or clone the repository).
